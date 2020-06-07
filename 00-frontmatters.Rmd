@@ -1,0 +1,17 @@
+# Front Matters {-}
+
+## About this book {-}
+
+This book documents a journey into using open source software for the operational performance analysis of Air Navigation Services.
+The concepts presented in this book are informed by the experience of a series of international benchmarking projects. 
+Discussions in - **and lessons learnt from** - these projects revolved around similar themes. This book would have not been possible without the discussions and generous time of all participants in these projects.
+
+The book is written to help researchers, ANS performance analysts, and interested parties in establishing reproducible performance reports in accordance with the international conventions put together by the benchmarking community in response to the Key Performance Indicators proposed by ICAO in the on-going refinement of the Global Air Navigation Plan. 
+
+## Structure of the book {-}
+
+This book is organised in several parts.
+
+```
+to be developed
+```

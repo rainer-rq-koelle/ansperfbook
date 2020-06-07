@@ -7,24 +7,9 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is the initial version of the book Operational ANS Performance with R and RStudio. "
+github-repo: rainer-rq-koelle/ansperfbook
+description: "This is the initial version of the book Operational ANS Performance with R and RStudio. The book project aims at developing material for the harmonised application of the ICAO GANP key performance indicators based on the R-ecosystem. There is no project plan or deadline. Thus, you may find this version incomplete and are encouraged to come back to check for updates."
 ---
-
-# Prerequisites
-
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-The **bookdown** package can be installed from CRAN or Github:
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
@@ -32,3 +17,32 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+# Preface {-}
+
+Operational performance analysis of air transportation and air navigation is essential to address the capabilities of local or regional systems, and the impact of capabilities or operational procedures.
+
+Operational performance monitoring and reporting has become a higher visibility through the recent Global Air Navigation Plan (GANP). Through the GANP, International Civil Aviation Organisation (ICAO) links future ambitions with performance and stresses the need for local and regional performance monitoring.
+Operational performance monitoring is well established in the US and Europe.
+In the US, the Federal Aviation Authority (FAA), and in Europe, the Performance Review Unit (PRU), publish regular regional performance monitoring reports.
+Both groups work together on a set of harmonised measures to compare the operational performance of the US and European air navigation system.
+
+Expanding the scope of performance reporting and enable other parties to validate the results requires harmonised interpretation and implementation of the respective metrics.
+
+To support benchmarking comparisons amongst different parties, the aim of this project is to develop an open-sourced based data analytical package ensuring the joint and harmonised application and implementation of performance metrics.
+
+This book is an attempt of making use of R/RStudio and supporting packages (e.g. readr, dplyr) to harmonise the application of operational performance indicators.
+As part of the R/RStudio universe, this book has been produced with the bookdown package.
+
+The documentation is provided in the hope that it is useful to the reader.
+Please report back about problems or queries you have relating to the use of the material presented or the corresponding R package.
+
+The website for this (book) project is: https://rainer-rq-koelle.github.io/ansperfbook/.
+The development website is: https://github.com/rainer-rq-koelle/ansperfbook.
+
+The **ansperf** package is available at: https://github.com/rainer-rq-koelle/ansperf.
+
+If you are interested in contributing to this development, please contact rainer.koelle@eurocontrol.int.     
+You may also make use of the bookdown commenting feature which is based on Git. 
+If you feel uncomfortable with doing so, please send an email.
+

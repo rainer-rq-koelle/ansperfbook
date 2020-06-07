@@ -1,3 +1,5 @@
 .Rhistory
 .RData
 .Rproj.user
+# keep workspace clean
+_bookdown_files/
