@@ -1,5 +1,11 @@
 .Rhistory
 .RData
 .Rproj.user
-# keep workspace clean
+# keep workspace clean - do not push locally rendered files (in master branch)
+_book/
 _bookdown_files/
+libs/
+**/*.html
+# ignore all htmls files, except
+!**/mathjax_header.html
+
