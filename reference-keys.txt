@@ -1,3 +1,6 @@
 fig:nice-fig
 tab:nice-tab
 intro
+some-example-placeholders-for-cross-referencing
+appendix-a
+placeholder
