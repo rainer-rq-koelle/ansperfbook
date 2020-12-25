@@ -1,6 +1,18 @@
 # Introduction {#intro}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+This online book is a work-in-progress project and - thus - a living document. 
+
+It is also an end-of-year kick-off project ... and I need to see how this develops.
+The principal idea is to create a useful resource for interested researcher and practitioner to analyse operational performance of air transportation / air navigation. 
+This is done by providing wrapper functions for the tidyverse. 
+How far I get with the package ... on vera :)
+
+
+
+
+## Some example placeholders for cross-referencing
+
+You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(intro).
 
 Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 

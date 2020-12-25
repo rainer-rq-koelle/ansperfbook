@@ -1,0 +1,7 @@
+# (APPENDIX) Appendix {-}
+
+# Appendix A
+
+## Placeholder
+
+This is a placeholder appendix section.
