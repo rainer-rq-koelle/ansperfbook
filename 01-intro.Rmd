@@ -2,13 +2,12 @@
 
 This online book is a work-in-progress project and - thus - a living document. 
 
+Here is a reference to ICAO Doc9854 [@icao_doc9854_2005].
+
 It is also an end-of-year kick-off project ... and I need to see how this develops.
 The principal idea is to create a useful resource for interested researcher and practitioner to analyse operational performance of air transportation / air navigation. 
 This is done by providing wrapper functions for the tidyverse. 
 How far I get with the package ... on vera :)
-
-
-
 
 ## Some example placeholders for cross-referencing
 
@@ -30,4 +29,4 @@ knitr::kable(
 )
 ```
 
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie_2015].
