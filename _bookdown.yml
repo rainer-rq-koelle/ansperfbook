@@ -1,5 +1,4 @@
 book_filename: "ansperfbook"
-output_dir: _book
 delete_merged_file: true
 language:
   ui:
