@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Analysing ANS Performance with R"
+  author: "Rainer RQ Koelle"
+  date: "2023 development version"
+  chapters:
+    - index.qmd
+    - 01-intro.qmd
+#  - summary.qmd
+#    - references.qmd
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  docx: default
+# epub:
+#    cover-image: cover.png
