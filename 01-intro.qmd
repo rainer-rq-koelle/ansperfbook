@@ -1,5 +1,3 @@
----
-title: "Introduction"
----
+# Introduction
 
 This will be the introduction of ANS Performance with R.
