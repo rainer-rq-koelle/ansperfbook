@@ -11,8 +11,11 @@ book:
     - 02-test.qmd
     - 03-nextchapter.qmd
     - 99-references.qmd
-
-bibliography: [book.bib, packages.bib]
+  downloads: 
+    - pdf
+    - docx
+  
+bibliography: book.bib   #, packages.bib]
 
 format:
   html:
