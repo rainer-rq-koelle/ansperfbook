@@ -11,9 +11,7 @@ book:
     - 02-test.qmd
     - 03-nextchapter.qmd
     - 99-references.qmd
-  downloads: 
-    - pdf
-    - docx
+  downloads: [pdf, docx]
   
 bibliography: book.bib   #, packages.bib]
 
