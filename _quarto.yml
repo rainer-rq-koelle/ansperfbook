@@ -10,10 +10,9 @@ book:
     - 01-intro.qmd
     - 02-test.qmd
     - 03-nextchapter.qmd
-#  - summary.qmd
-#    - references.qmd
+    - 99-references.qmd
 
-#bibliography: references.bib
+bibliography: [book.bib, packages.bib]
 
 format:
   html:
