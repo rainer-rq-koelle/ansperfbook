@@ -4,3 +4,5 @@ cool text and more fun.
 
 
 just to make sure it works a 2nd time.
+
+this is now rendering from terminal
