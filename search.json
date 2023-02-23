@@ -4,21 +4,7 @@
     "href": "index.html",
     "title": "Analysing ANS Performance with R",
     "section": "",
-    "text": "Preface"
-  },
-  {
-    "objectID": "index.html#about-this-book",
-    "href": "index.html#about-this-book",
-    "title": "Analysing ANS Performance with R",
-    "section": "About this book",
-    "text": "About this book\nThis book documents a journey into using open source software for the operational performance analysis of Air Transportation and Air Navigation Services. The concepts presented in this book are informed by the experience of a series of international benchmarking projects. Discussions in - and lessons learnt from - these projects revolved around similar themes. This book would have not been possible without the discussions and generous time of all participants in these projects.\nThe book is written to help researchers, ANS performance analysts, and interested parties in establishing reproducible performance reports in accordance with the international conventions put together by the benchmarking community in response to the Key Performance Indicators proposed by ICAO in the on-going refinement of the Global Air Navigation Plan."
-  },
-  {
-    "objectID": "index.html#structure-of-the-book",
-    "href": "index.html#structure-of-the-book",
-    "title": "Analysing ANS Performance with R",
-    "section": "Structure of the book",
-    "text": "Structure of the book\nThis book is organised in several parts.\n\nPart I provides an introduction to Air Transportation and Air Navigation and sets the scene of our study area of interest.\nPart II gives a getting-up-and-started crash-course with the R/RStudio Ecosystem. This book cannot distill the many useful introductory books on R, RStudio, various packages, and concepts. However, the information should be enough to replicate the examples and get the interested researcher/practitioner up and running!\nPart III introduces the set of operational performance indicators and associated ansperf functions.\nPart IV demonstrates use case analyses\n\nto be developed"
+    "text": "This book documents a journey into using open source software for the operational performance analysis of Air Transportation and Air Navigation Services. The concepts presented in this book are informed by the experience of a series of international benchmarking projects. Discussions in - and lessons learnt from - these projects revolved around similar themes. This book would have not been possible without the discussions and generous time of all participants in these projects.\nThe book is written to help researchers, ANS performance analysts, and interested parties in establishing reproducible performance reports in accordance with the international conventions put together by the benchmarking community in response to the Key Performance Indicators proposed by ICAO in the on-going refinement of the Global Air Navigation Plan.\n\n\n\nThis book is organised in several parts.\n\nPart I provides an introduction to Air Transportation and Air Navigation and sets the scene of our study area of interest.\nPart II gives a getting-up-and-started crash-course with the R/RStudio Ecosystem. This book cannot distill the many useful introductory books on R, RStudio, various packages, and concepts. However, the information should be enough to replicate the examples and get the interested researcher/practitioner up and running!\nPart III introduces the set of operational performance indicators and associated ansperf functions.\nPart IV demonstrates use case analyses\n\nto be developed"
   },
   {
     "objectID": "01-intro.html",
@@ -39,6 +25,6 @@
     "href": "03-nextchapter.html",
     "title": "3  Next Chapter",
     "section": "",
-    "text": "cool text and more fun.\njust to make sure it works a 2nd time."
+    "text": "just to make sure it works a 2nd time.\nthis is now rendering from terminal"
   }
 ]
