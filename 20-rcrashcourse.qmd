@@ -1,0 +1,48 @@
+# Using R
+
+This section provides a short introduction to R.
+The R-ecosystem provides a rich environment for data analytics. 
+This section offers a crash-course like walk over some basics and the use of the {tidyverse} packages.
+The goal is provide "enough R" for a newcomer to follow the code and understand to call the provided functions or adapt the analysis template to own needs/interests.
+
+## R-Ecosystem
+
+## Install R
+
+* install R from CRAN
+* install RStudio - now called Posit
+* install Quarto
+
+* recommendation - set-up a github account for archiving
+
+## Navigate RStudio
+
+* editor, console, top right, and bottom right
+
+## R as a calculator
+
+* basic operation
+* some useful baseR functions, getting help
+* data types: vectors, data.frames (now tibbles), and lists - mention other, but do not elaborate
+* data.frame/tibble operations, [row, column], [ and [[, $
+
+## Tidyverse Data Crunching
+
+* dplyr
+
+## Plotting with {ggplot2}
+
+* grammar of graphics
+* skeleton plot
+* barcharts
+* scatterplot and timelines
+
+* moving from static to interactive (plotly) or animated <!-- here or next section -->
+
+## tbd
+
+## Summary
+
+This section aimed to provide a basic understanding of the R-ecosystem for the analysis of operational performance.
+By no means this section can cover all packages in detail. The interested reader is encouraged to continue to learn, study, and further explore the ecosystem. 
+There is a wealth of youtube or written tutorials. Enjoy.

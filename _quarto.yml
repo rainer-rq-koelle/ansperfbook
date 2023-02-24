@@ -10,6 +10,7 @@ book:
     - 01-intro.qmd
     - 02-test.qmd
     - 03-nextchapter.qmd
+    - 20-rcrashcourse.qmd
     - 99-references.qmd
   downloads: [pdf, docx]
   
