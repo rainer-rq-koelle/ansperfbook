@@ -12,7 +12,7 @@ book:
       chapters:
         - 10-introduction.qmd
         #- 02-test.qmd
-        - 03-nextchapter.qmd
+        #- 03-nextchapter.qmd
         - 20-rcrashcourse.qmd
     - part: "Rmagic"
     - 99-references.qmd
