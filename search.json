@@ -28,73 +28,80 @@
     "text": "This will be the introduction of ANS Performance with R."
   },
   {
-    "objectID": "02-test.html",
-    "href": "02-test.html",
+    "objectID": "10-basics.html",
+    "href": "10-basics.html",
+    "title": "Basics",
+    "section": "",
+    "text": "This part introduces\n\nair transportation\nair navigation\noperational performance\n\nIt serves foremost as an aide memoire for the interested reader."
+  },
+  {
+    "objectID": "10-introduction.html",
+    "href": "10-introduction.html",
     "title": "2  2nd Chapter",
     "section": "",
     "text": "Here comes a new chapter."
   },
   {
-    "objectID": "03-nextchapter.html",
-    "href": "03-nextchapter.html",
-    "title": "3  Next Chapter",
-    "section": "",
-    "text": "cool text and more fun.\njust to make sure it works a 2nd time.\nthis is now rendering from terminal"
-  },
-  {
     "objectID": "20-rcrashcourse.html#r-ecosystem",
     "href": "20-rcrashcourse.html#r-ecosystem",
-    "title": "4  Using R",
-    "section": "4.1 R-Ecosystem",
-    "text": "4.1 R-Ecosystem"
+    "title": "3  Using R",
+    "section": "3.1 R-Ecosystem",
+    "text": "3.1 R-Ecosystem"
   },
   {
     "objectID": "20-rcrashcourse.html#install-r",
     "href": "20-rcrashcourse.html#install-r",
-    "title": "4  Using R",
-    "section": "4.2 Install R",
-    "text": "4.2 Install R\n\ninstall R from CRAN\ninstall RStudio - now called Posit\ninstall Quarto\nrecommendation - set-up a github account for archiving"
+    "title": "3  Using R",
+    "section": "3.2 Install R",
+    "text": "3.2 Install R\n\ninstall R from CRAN\ninstall RStudio - now called Posit\ninstall Quarto\nrecommendation - set-up a github account for archiving"
   },
   {
     "objectID": "20-rcrashcourse.html#navigate-rstudio",
     "href": "20-rcrashcourse.html#navigate-rstudio",
-    "title": "4  Using R",
-    "section": "4.3 Navigate RStudio",
-    "text": "4.3 Navigate RStudio\n\neditor, console, top right, and bottom right"
+    "title": "3  Using R",
+    "section": "3.3 Navigate RStudio",
+    "text": "3.3 Navigate RStudio\n\neditor, console, top right, and bottom right"
   },
   {
     "objectID": "20-rcrashcourse.html#r-as-a-calculator",
     "href": "20-rcrashcourse.html#r-as-a-calculator",
-    "title": "4  Using R",
-    "section": "4.4 R as a calculator",
-    "text": "4.4 R as a calculator\n\nbasic operation\nsome useful baseR functions, getting help\ndata types: vectors, data.frames (now tibbles), and lists - mention other, but do not elaborate\ndata.frame/tibble operations, [row, column], [ and [[, $"
+    "title": "3  Using R",
+    "section": "3.4 R as a calculator",
+    "text": "3.4 R as a calculator\n\nbasic operation\nsome useful baseR functions, getting help\ndata types: vectors, data.frames (now tibbles), and lists - mention other, but do not elaborate\ndata.frame/tibble operations, [row, column], [ and [[, $"
   },
   {
     "objectID": "20-rcrashcourse.html#tidyverse-data-crunching",
     "href": "20-rcrashcourse.html#tidyverse-data-crunching",
-    "title": "4  Using R",
-    "section": "4.5 Tidyverse Data Crunching",
-    "text": "4.5 Tidyverse Data Crunching\n\ndplyr"
+    "title": "3  Using R",
+    "section": "3.5 Tidyverse Data Crunching",
+    "text": "3.5 Tidyverse Data Crunching\n\ndplyr"
   },
   {
     "objectID": "20-rcrashcourse.html#plotting-with-ggplot2",
     "href": "20-rcrashcourse.html#plotting-with-ggplot2",
-    "title": "4  Using R",
-    "section": "4.6 Plotting with {ggplot2}",
-    "text": "4.6 Plotting with {ggplot2}\n\ngrammar of graphics\nskeleton plot\nbarcharts\nscatterplot and timelines\nmoving from static to interactive (plotly) or animated"
+    "title": "3  Using R",
+    "section": "3.6 Plotting with {ggplot2}",
+    "text": "3.6 Plotting with {ggplot2}\n\ngrammar of graphics\nskeleton plot\nbarcharts\nscatterplot and timelines\nmoving from static to interactive (plotly) or animated"
   },
   {
     "objectID": "20-rcrashcourse.html#tbd",
     "href": "20-rcrashcourse.html#tbd",
-    "title": "4  Using R",
-    "section": "4.7 tbd",
-    "text": "4.7 tbd"
+    "title": "3  Using R",
+    "section": "3.7 tbd",
+    "text": "3.7 tbd"
   },
   {
     "objectID": "20-rcrashcourse.html#summary",
     "href": "20-rcrashcourse.html#summary",
-    "title": "4  Using R",
-    "section": "4.8 Summary",
-    "text": "4.8 Summary\nThis section aimed to provide a basic understanding of the R-ecosystem for the analysis of operational performance. By no means this section can cover all packages in detail. The interested reader is encouraged to continue to learn, study, and further explore the ecosystem. There is a wealth of youtube or written tutorials. Enjoy."
+    "title": "3  Using R",
+    "section": "3.8 Summary",
+    "text": "3.8 Summary\nThis section aimed to provide a basic understanding of the R-ecosystem for the analysis of operational performance. By no means this section can cover all packages in detail. The interested reader is encouraged to continue to learn, study, and further explore the ecosystem. There is a wealth of youtube or written tutorials. Enjoy."
+  },
+  {
+    "objectID": "A1-appendix.html",
+    "href": "A1-appendix.html",
+    "title": "Appendix A — Appendix",
+    "section": "",
+    "text": "Placeholder for any appendix."
   }
 ]
