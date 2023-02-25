@@ -11,7 +11,7 @@ book:
     - part: 10-basics.qmd
       chapters:
         - 10-introduction.qmd
-        - 02-test.qmd
+        #- 02-test.qmd
         - 03-nextchapter.qmd
         - 20-rcrashcourse.qmd
     - part: "Rmagic"
