@@ -16,7 +16,7 @@ book:
         - 20-rcrashcourse.qmd
     - part: "Rmagic"
     - 99-references.qmd
-    appendices:
+  appendices:
     - A1-appendix.qmd
   downloads: [pdf, docx]
   
