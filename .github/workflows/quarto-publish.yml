@@ -20,6 +20,12 @@ jobs:
           # version: SPECIFIC-QUARTO-VERSION-HERE
       
       # add software dependencies here
+      # ------ example pasted from https://github.com/r-lib/actions/tree/v2/setup-r-dependencies
+      #- uses: r-lib/actions/setup-r-dependencies@v2
+      #    with:
+      #      packages:
+      #        any::knitr
+      #        any::rmarkdown
 
       # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
       # the appropriate block below
