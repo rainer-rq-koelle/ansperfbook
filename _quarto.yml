@@ -8,10 +8,16 @@ book:
   chapters:
     - index.qmd
     - 01-intro.qmd
-    - 02-test.qmd
-    - 03-nextchapter.qmd
-    - 20-rcrashcourse.qmd
+    - part: 10-basics.qmd
+      chapters:
+        - 10-introduction.qmd
+        - 02-test.qmd
+        - 03-nextchapter.qmd
+        - 20-rcrashcourse.qmd
+    - part: "Rmagic"
     - 99-references.qmd
+    appendices:
+    - A1-appendix.qmd
   downloads: [pdf, docx]
   
 bibliography: book.bib   #, packages.bib]

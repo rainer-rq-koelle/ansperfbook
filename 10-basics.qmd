@@ -1,0 +1,10 @@
+# Basics
+
+This part introduces 
+
+* air transportation
+* air navigation
+* operational performance
+
+It serves foremost as an aide memoire for the interested reader.
+
